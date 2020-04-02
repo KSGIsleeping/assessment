@@ -1,0 +1,16 @@
+body{
+    background-color: #04A6EB;
+    color: #FDFFFF;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button{
+    padding: 5px 20px; /*要素の内側の余白を、上下を 5px、左右を 20px に設定*/
+    background-color: #337AB7;
+    columns: #FDFFFF;
+    border-style: none;/*境界線を表示しない*/
+}
+input{
+    height: 20px;
+}
